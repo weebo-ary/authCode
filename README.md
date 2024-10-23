@@ -1,5 +1,7 @@
 # authCode
 
+## Type <code>npm install</code> where <code>package.json</code> file locates
+
 ## Add a <code>.env</code> folder and add a mongoose URL
 
 # For starting type <code>node index.js</code>

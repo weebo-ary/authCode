@@ -2,7 +2,7 @@
 
 ## Add a <code>.env</code> folder and add a mongoose URL
 
-#For starting type <code>node index.js</code>
+# For starting type <code>node index.js</code>
 
 ## All API's
 # api/auth/signup

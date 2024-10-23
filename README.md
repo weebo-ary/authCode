@@ -9,6 +9,6 @@
 # api/auth/login
 # api/auth/private-route
 
-## Access for Private Route
+## Access for Private Route ⬇️
 # After Login copy the jwt token and put it in header with <code>x-auth-token</code>
 ![image](https://github.com/user-attachments/assets/bd172bad-abff-4cfc-a786-3209cc5d0c02)
